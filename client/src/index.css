@@ -1,0 +1,166 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: hsl(0, 0%, 100%);
+  --foreground: hsl(20, 14.3%, 4.1%);
+  --muted: hsl(60, 4.8%, 95.9%);
+  --muted-foreground: hsl(25, 5.3%, 44.7%);
+  --popover: hsl(0, 0%, 100%);
+  --popover-foreground: hsl(20, 14.3%, 4.1%);
+  --card: hsl(0, 0%, 100%);
+  --card-foreground: hsl(20, 14.3%, 4.1%);
+  --border: hsl(20, 5.9%, 90%);
+  --input: hsl(20, 5.9%, 90%);
+  --primary: hsl(207, 73%, 35%);
+  --primary-foreground: hsl(211, 100%, 99%);
+  --secondary: hsl(60, 4.8%, 95.9%);
+  --secondary-foreground: hsl(24, 9.8%, 10%);
+  --accent: hsl(60, 4.8%, 95.9%);
+  --accent-foreground: hsl(24, 9.8%, 10%);
+  --destructive: hsl(0, 84.2%, 60.2%);
+  --destructive-foreground: hsl(60, 9.1%, 97.8%);
+  --ring: hsl(20, 14.3%, 4.1%);
+  --radius: 0.5rem;
+
+  /* Sahayata Custom Colors - Warmer, More Inviting */
+  --primary-dark: hsl(210, 77%, 16%);
+  --primary-medium: hsl(207, 73%, 42%);
+  --primary-light: hsl(207, 48%, 58%);
+  --neutral-bg: hsl(35, 20%, 98%);
+  --warm-blue: hsl(205, 65%, 95%);
+  --warm-yellow: hsl(48, 95%, 90%);
+  --warm-green: hsl(142, 76%, 93%);
+  --warm-coral: hsl(14, 100%, 94%);
+  --warm-lavender: hsl(270, 30%, 95%);
+  --soft-orange: hsl(25, 95%, 88%);
+  --gentle-mint: hsl(150, 60%, 92%);
+}
+
+.dark {
+  --background: hsl(240, 10%, 3.9%);
+  --foreground: hsl(0, 0%, 98%);
+  --muted: hsl(240, 3.7%, 15.9%);
+  --muted-foreground: hsl(240, 5%, 64.9%);
+  --popover: hsl(240, 10%, 3.9%);
+  --popover-foreground: hsl(0, 0%, 98%);
+  --card: hsl(240, 10%, 3.9%);
+  --card-foreground: hsl(0, 0%, 98%);
+  --border: hsl(240, 3.7%, 15.9%);
+  --input: hsl(240, 3.7%, 15.9%);
+  --primary: hsl(207, 73%, 35%);
+  --primary-foreground: hsl(211, 100%, 99%);
+  --secondary: hsl(240, 3.7%, 15.9%);
+  --secondary-foreground: hsl(0, 0%, 98%);
+  --accent: hsl(240, 3.7%, 15.9%);
+  --accent-foreground: hsl(0, 0%, 98%);
+  --destructive: hsl(0, 62.8%, 30.6%);
+  --destructive-foreground: hsl(0, 0%, 98%);
+  --ring: hsl(240, 4.9%, 83.9%);
+  --radius: 0.5rem;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  .bg-primary-dark {
+    background-color: var(--primary-dark);
+  }
+  
+  .bg-primary-medium {
+    background-color: var(--primary-medium);
+  }
+  
+  .bg-primary-light {
+    background-color: var(--primary-light);
+  }
+  
+  .bg-neutral-bg {
+    background-color: var(--neutral-bg);
+  }
+  
+  .bg-warm-blue {
+    background-color: var(--warm-blue);
+  }
+  
+  .bg-warm-yellow {
+    background-color: var(--warm-yellow);
+  }
+  
+  .bg-warm-green {
+    background-color: var(--warm-green);
+  }
+  
+  .text-primary-dark {
+    color: var(--primary-dark);
+  }
+  
+  .text-primary-medium {
+    color: var(--primary-medium);
+  }
+  
+  .text-primary-light {
+    color: var(--primary-light);
+  }
+  
+  .border-primary-light {
+    border-color: var(--primary-light);
+  }
+  
+  .border-primary-medium {
+    border-color: var(--primary-medium);
+  }
+  
+  .hover\:bg-primary-dark:hover {
+    background-color: var(--primary-dark);
+  }
+  
+  .hover\:bg-primary-medium:hover {
+    background-color: var(--primary-medium);
+  }
+  
+  .hover\:bg-primary-light:hover {
+    background-color: var(--primary-light);
+  }
+  
+  .hover\:text-primary-light:hover {
+    color: var(--primary-light);
+  }
+  
+  .hover\:text-primary-medium:hover {
+    color: var(--primary-medium);
+  }
+  
+  .hover\:border-primary-medium:hover {
+    border-color: var(--primary-medium);
+  }
+  
+  .stroke-primary-medium {
+    stroke: var(--primary-medium);
+  }
+
+  .bg-warm-coral {
+    background-color: var(--warm-coral);
+  }
+  
+  .bg-warm-lavender {
+    background-color: var(--warm-lavender);
+  }
+  
+  .bg-soft-orange {
+    background-color: var(--soft-orange);
+  }
+  
+  .bg-gentle-mint {
+    background-color: var(--gentle-mint);
+  }
+}

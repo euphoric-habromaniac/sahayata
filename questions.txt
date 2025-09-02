@@ -1,0 +1,941 @@
+1. questions 8 to 13, for parents
+
+
+
+
+
+    Question: Does your child have trouble sounding out new or unfamiliar words while reading?
+
+    Rationale: Screens for difficulties in decoding—core to dyslexia and reading challenges.
+
+    Source Type: DSM-5 criteria for reading disorders; phonological processing research.
+
+    Question: Does your child read much more slowly than other children their age?
+
+    Rationale: Measures reading fluency; may indicate dyslexia or general reading delay.
+
+    Source Type: Clinical reading fluency assessments.
+
+    Question: Does your child frequently make spelling errors or spell the same word differently within one piece of writing?
+
+    Rationale: Flags inconsistent spelling, which is common in dyslexia and written expression disorders.
+
+    Source Type: Spelling disorder research; DSM-5 criteria.
+
+    Question: Does your child have difficulty understanding or remembering what they just read?
+
+    Rationale: Assesses reading comprehension and working memory, relevant to dyslexia and broader learning concerns.
+
+    Source Type: Comprehension tasks; working memory studies.
+
+    Question: Does your child's writing have frequent grammar mistakes, run-on sentences, or seem disorganized?
+
+    Rationale: Screens for written expression difficulties (dysgraphia, SLD).
+
+    Source Type: DSM-5 written expression disorder criteria.
+
+    Question: Is your child’s handwriting noticeably messier than that of peers?
+
+    Rationale: Assesses graphomotor issues, suggestive of dysgraphia or fine-motor difficulties.
+
+    Source Type: Research on handwriting and learning disorders.
+
+    Question: Does your child frequently lose their place, skip lines, or skip words while reading?
+
+    Rationale: Can signal attention issues, tracking problems, or dyslexia.
+
+    Source Type: ADHD and dyslexia screener literature.
+
+    Question: Does your child often forget instructions or need directions repeated?
+
+    Rationale: Measures working memory and attention, pertinent to ADHD and learning disorders.
+
+    Source Type: ADHD rating scales; cognitive assessment protocols.
+
+    Question: Is it difficult for your child to begin or finish assignments without reminders?
+
+    Rationale: Tests executive function and motivation, possible in ADHD, anxiety, or SLD.
+
+    Source Type: Clinical ADHD and SLD checklists.
+
+    Question: Does your child frequently fidget, have trouble sitting still, or leave their seat when expected to remain seated?
+
+    Rationale: Assesses hyperactivity and impulsivity, classic in ADHD.
+
+    Source Type: DSM-5 ADHD criteria.
+
+    Question: Does your child seem distracted, daydream often, or struggle to pay attention to tasks?
+
+    Rationale: Screens for inattentive behaviors, important for ADHD and other concerns.
+
+    Source Type: ADHD evaluations; parent-report tools.
+
+    Question: Does your child avoid reading, writing, or math homework whenever possible?
+
+    Rationale: Behavioral avoidance signals potential anxiety or specific learning difficulties.
+
+    Source Type: School-based and clinical screeners; DSM-5.
+
+    Question: Does your child appear anxious, worried, or very self-critical about schoolwork or homework?
+
+    Rationale: Looks for anxiety or low self-esteem often paired with learning disorders.
+
+    Source Type: Social-emotional screening instruments.
+
+    Question: Has your child voiced frustration, sadness, or embarrassment related to academics?
+
+    Rationale: Captures mood or emotional impact of academic struggles.
+
+    Source Type: Child mood and self-esteem research.
+
+    Question: Is your child disorganized or prone to losing homework, books, or other school materials?
+
+    Rationale: Screens for executive functioning difficulties, common in ADHD and learning disorders.
+
+    Source Type: Executive functioning checklists.
+
+    Question: Does your child blurt out answers or interrupt conversations often?
+
+    Rationale: Tests impulsivity and self-regulation, often found in ADHD.
+
+    Source Type: DSM-5 ADHD criteria.
+
+    Question: Does your child find it hard to stick with a task or finish things that take a while?
+
+    Rationale: Sustained attention and executive function screening; important for multiple disorders.
+
+    Source Type: ADHD and educational psychology literature.
+
+    Question: Does your child struggle to remember basic math facts or do simple calculations quickly?
+
+    Rationale: Checks for math disability (dyscalculia).
+
+    Source Type: DSM-5 math disorder criteria; achievement testing.
+
+    Question: Does your child become frustrated or give up quickly when academic tasks are challenging?
+
+    Rationale: Screens for emotional/behavioral responses to learning difficulties.
+
+    Source Type: Observational checklists for motivation and mood.
+
+    Question: Does your child avoid socializing, rarely has friends, or struggles with peer relationships?
+
+    Rationale: Looks for social withdrawal or social anxiety, which may co-occur with learning challenges.
+
+    Source Type: Social-emotional screeners; parent observation tools.
+
+    Question: Does your child have trouble following and remembering oral directions?
+
+    Rationale: Tests auditory working memory and processing.
+
+    Source Type: Working memory research in SLD and ADHD.
+
+    Question: Does your child struggle with taking turns or sharing in games or conversations?
+
+    Rationale: Measures social skills and self-regulation.
+
+    Source Type: Social behavior rating scales; ADHD criteria.
+
+    Question: Are your child’s grades or skills much higher in some subjects than others?
+
+    Rationale: Screens for specific, rather than general, learning disabilities.
+
+    Source Type: Educational psychology literature.
+
+    Question: Does your child have difficulty retelling a story or summarizing what they’ve learned?
+
+    Rationale: Assesses verbal memory and language comprehension.
+
+    Source Type: Language comprehension and memory assessments.
+
+    Question: Is your child easily distracted by noise, activity, or other people while working?
+
+    Rationale: Screens for attention, sensory, or processing challenges.
+
+    Source Type: ADHD and sensory screeners.
+
+    Question: Does your child seem restless or anxious during homework or extended reading/writing tasks?
+
+    Rationale: Identifies anxiety, hyperactivity, or academic stress indicators.
+
+    Source Type: DSM-5 anxiety/ADHD criteria.
+
+    Question: Does your child frequently complain of headaches, stomachaches, or physical discomfort during schoolwork?
+
+    Rationale: Screens for somatic symptoms related to anxiety or stress.
+
+    Source Type: Mental health and somatic disorder research.
+
+    Question: Does your child frequently ask for reassurance about their ability or performance in school?
+
+    Rationale: Looks for low self-esteem, anxiety, or perfectionism tied to learning or emotional struggles.
+
+    Source Type: Child behavior and emotional screeners.
+
+    Question: Does your child have trouble recalling basic information, like days of the week or multiplication facts?
+
+    Rationale: Checks basic information retention, key in various learning disorders.
+
+    Source Type: Learning disorder diagnostic criteria.
+
+    Question: Does your child’s mood seem to change often, especially during or after schoolwork?
+
+    Rationale: Assesses emotional reactivity, which can indicate underlying stress or learning frustration.
+
+    Source Type: Mood disorder screening tools; parent questionnaires.
+
+
+
+
+
+---------------------
+
+ages 8 to 13
+for teachers
+
+
+
+Question: Does the student often struggle to sound out or decode unfamiliar words when reading?
+
+Rationale: Assesses reading-specific decoding difficulties, classic in dyslexia.
+
+Source Type: DSM-5 criteria for reading; phonological processing tasks.
+
+Question: Does the student have noticeably slower reading fluency compared to classmates?
+
+Rationale: Measures word reading speed; a core dyslexia marker but also relevant for general learning challenges.
+
+Source Type: Reading fluency subtests; clinical observation.
+
+Question: Does the student frequently make the same spelling mistakes or spell the same word differently within a single assignment?
+
+Rationale: Screens for inconsistent, phonologically weak spelling (dyslexia, written expression disorder).
+
+Source Type: DSM-5 spelling criteria; writing sample analysis.
+
+Question: Does the student have difficulty understanding or remembering what was just read?
+
+Rationale: Assesses reading comprehension and working memory, relevant to both dyslexia and other cognitive difficulties.
+
+Source Type: Reading comprehension tasks; cognitive assessment literature.
+
+Question: Does the student’s written work contain frequent grammar errors, incomplete thoughts, or disorganized structure?
+
+Rationale: Measures written expression difficulties, possible in language-based learning disorders or inattentive presentations of ADHD.
+
+Source Type: DSM-5 criteria for written expression disorder; peer-reviewed studies.
+
+Question: Does the student have noticeably messy or hard-to-read handwriting compared to peers?
+
+Rationale: Assesses graphomotor deficits, often present in dysgraphia and sometimes seen with ADHD.
+
+Source Type: Clinical observation; dysgraphia research.
+
+Question: Does the student often lose track of their place when reading or skip lines/words?
+
+Rationale: Can reflect attention, visual processing, or dyslexia-related tracking issues.
+
+Source Type: Reading error analysis; ADHD and dyslexia screening studies.
+
+Question: Does the student frequently forget instructions or need them repeated?
+
+Rationale: Tests working memory and attention, important for both SLD and ADHD.
+
+Source Type: ADHD rating scales; working memory assessments.
+
+Question: Does the student have difficulty starting or completing assignments without repeated prompting?
+
+Rationale: Suggests executive functioning or motivation issues, frequently seen with ADHD or mood problems.
+
+Source Type: ADHD and executive function inventories.
+
+Question: Does the student fidget, leave their seat at inappropriate times, or have trouble staying seated during lessons?
+
+Rationale: Reflects hyperactivity/impulsivity, hallmark of ADHD.
+
+Source Type: DSM-5 ADHD criteria; teacher behavior rating scales.
+
+Question: Does the student daydream, appear distracted, or struggle to focus on lessons or tasks?
+
+Rationale: Screens for inattentiveness, possible in ADHD, anxiety, or learning disorders.
+
+Source Type: ADHD evaluations; classroom observation protocols.
+
+Question: Does the student avoid reading, writing, or math tasks whenever possible?
+
+Rationale: Behavioral avoidance often signals anxiety or specific learning challenges.
+
+Source Type: School-based screening tools; DSM-5 for SLDs and anxiety.
+
+Question: Does the student appear anxious, worried, or overly self-critical about schoolwork?
+
+Rationale: Screens for symptoms of anxiety or low self-esteem, often co-occurring with learning disabilities.
+
+Source Type: Social-emotional screening instruments; anxiety disorder research.
+
+Question: Has the student expressed frustration, sadness, or embarrassment related to academic tasks?
+
+Rationale: Measures emotional impact and internalizing symptoms associated with academic struggles.
+
+Source Type: Mood disorder and self-esteem scales for children.
+
+Question: Does the student have difficulty organizing materials (e.g., losing homework, messy desk)?
+
+Rationale: Screens for executive functioning or inattentive behaviors, common in ADHD and some learning disorders.
+
+Source Type: ADHD/executive function checklists; educational psychology guidelines.
+
+Question: Does the student speak or blurt out answers without raising their hand or listening for instructions?
+
+Rationale: Impulsivity and poor self-regulation, seen in ADHD and some behavioral disorders.
+
+Source Type: DSM-5 ADHD criteria.
+
+Question: Does the student have trouble staying on task or completing multi-step activities?
+
+Rationale: Tests sustained attention and executive function, relevant to multiple learning and behavioral disorders.
+
+Source Type: ADHD/school observation tools.
+
+Question: Does the student struggle to remember basic math facts or have slow math computation skills?
+
+Rationale: Screens for math-based learning disorder (dyscalculia).
+
+Source Type: DSM-5 math disorder criteria; standardized math achievement tests.
+
+Question: Does the student display frequent avoidance, frustration, or “giving up” with challenging schoolwork?
+
+Rationale: Behavioral response to repeated academic struggle; flags possible SLDs, anxiety, or low mood.
+
+Source Type: Observational checklists; motivational research in education.
+
+Question: Does the student seem withdrawn, rarely participate, or have difficulty making friends?
+
+Rationale: Reflects possible social anxiety, depression, or withdrawal due to academic struggles.
+
+Source Type: Social-emotional and peer relationship screeners.
+
+Question: Does the student have difficulty following and remembering oral directions?
+
+Rationale: Tests auditory working memory and attention, critical for learning and often impaired in SLD and ADHD.
+
+Source Type: Working memory tasks; classroom observation.
+
+Question: During group tasks, does the student have trouble cooperating or waiting their turn?
+
+Rationale: Assesses social skills, impulsivity, and executive function.
+
+Source Type: Behavior and social skills rating scales.
+
+Question: Does the student show inconsistent academic performance across different subjects or tasks?
+
+Rationale: Screens for specific learning profiles, which help distinguish SLD from generalized cognitive or motivational issues.
+
+Source Type: Educational psychology research; teacher rating scales.
+
+Question: Does the student have difficulty retelling a story or summarizing information they have just learned?
+
+Rationale: Evaluates language comprehension and verbal memory.
+
+Source Type: Reading and listening comprehension assessments.
+
+Question: Does the student become easily overwhelmed or distracted by noise or activity around them?
+
+Rationale: Auditory or sensory distractibility, associated with ADHD, anxiety, or processing issues.
+
+Source Type: Sensory processing and attention screeners.
+
+Question: Does the student appear restless or agitated during quiet, independent work periods?
+
+Rationale: Screens for hyperactivity or anxiety.
+
+Source Type: DSM-5 ADHD/anxiety criteria; teacher observation.
+
+Question: Does the student express physical complaints (e.g., headache, stomachache) during academic activities?
+
+Rationale: Somatic symptoms may signal anxiety, stress, or emotional impact of learning challenges.
+
+Source Type: Child mental health and psychosomatic assessment literature.
+
+Question: Does the student require frequent reassurance about their performance or abilities?
+
+Rationale: Indicates low self-esteem or anxiety, often secondary to repeated learning challenges.
+
+Source Type: Child self-esteem and anxiety screening protocols.
+
+Question: Does the student have trouble recalling basic facts (like days of the week or multiplication tables)?
+
+Rationale: Basic fact retrieval deficits, possible in SLD (especially dyscalculia or dyslexia).
+
+Source Type: Standard academic screening; learning disorder criteria.
+
+Question: Does the student show frequent mood changes, irritability, or signs of distress during school activities?
+
+Rationale: Emotional regulation issues may be linked to underlying anxiety, depression, or frustration with school demands.
+
+Source Type: Mood disorder screening tools; teacher mental health observations.
+
+
+-------
+
+14 to 19, parents
+
+
+
+Question: Does your teenager read more slowly than peers, even with familiar texts?
+
+Rationale: Assesses ongoing reading fluency issues common in adolescent dyslexia.
+
+Source Type: DSM-5 criteria; adolescent dyslexia research
+
+Question: Does your teenager avoid reading aloud at home or in social settings?
+
+Rationale: Behavioral avoidance often linked to reading challenges or anxiety.
+
+Source Type: Clinical and behavioral research
+
+Question: Does your teenager have trouble explaining or summarizing what they have read?
+
+Rationale: Reflects difficulties in reading comprehension and verbal memory.
+
+Source Type: Academic assessments; DSM-5 criteria
+
+Question: Does your teenager need instructions or information repeated multiple times to understand?
+
+Rationale: Indicates working memory and auditory processing challenges.
+
+Source Type: Educational research and cognitive assessments
+
+Question: Does your teenager frequently misspell common words or spell words differently each time?
+
+Rationale: Signs of persistent spelling difficulties.
+
+Source Type: DSM-5 criteria; dyslexia research
+
+Question: Does your teenager become easily frustrated or upset during reading or writing tasks?
+
+Rationale: Emotional distress related to academic difficulty.
+
+Source Type: Educational psychology studies
+
+Question: Does your teenager struggle to organize writing assignments or essays?
+
+Rationale: Reflects executive function deficits in writing and planning.
+
+Source Type: Neuropsychological and educational research
+
+Question: Does your teenager have trouble sitting still or staying focused during homework?
+
+Rationale: Common behavioral signs of hyperactivity and attention difficulties.
+
+Source Type: DSM-5 ADHD criteria
+
+Question: Does your teenager find it hard to concentrate during study or lectures?
+
+Rationale: Indicates attention challenges impacting learning.
+
+Source Type: ADHD and cognitive research
+
+Question: Does your teenager often turn in homework late or leave assignments incomplete?
+
+Rationale: May indicate executive function or motivational difficulties.
+
+Source Type: Educational psychology and ADHD studies
+
+Question: Does your teenager have difficulty remembering multi-step instructions?
+
+Rationale: Tests working memory and organizational skills.
+
+Source Type: Neuropsychological assessments
+
+Question: Does your teenager avoid social gatherings or group activities at school or outside?
+
+Rationale: Potential indicator of social anxiety or depression.
+
+Source Type: Mental health research
+
+Question: Does your teenager often express worry or self-doubt about their school performance?
+
+Rationale: Screens for anxiety or low self-esteem connected to academic challenges.
+
+Source Type: Child psychology literature
+
+Question: Does your teenager struggle with learning or recalling math facts?
+
+Rationale: Possible math learning disability (dyscalculia).
+
+Source Type: DSM-5 criteria; educational assessments
+
+Question: Does your teenager perform very unevenly across different school subjects?
+
+Rationale: Suggests specific learning disabilities or co-occurring disorders.
+
+Source Type: Educational psychology research
+
+Question: Does your teenager become overwhelmed or restless during extended reading or writing tasks?
+
+Rationale: Indicates academic fatigue, anxiety, or attention problems.
+
+Source Type: Clinical and education studies
+
+Question: Does your teenager often interrupt conversations or speak without waiting their turn?
+
+Rationale: Signs of impulsivity, typical of ADHD.
+
+Source Type: DSM-5 ADHD criteria
+
+Question: Does your teenager struggle with planning or organizing schoolwork and managing time?
+
+Rationale: Executive functioning challenges common in ADHD and other learning disorders.
+
+Source Type: Neuropsychological and educational research
+
+Question: Does your teenager find it hard to participate in group discussions or projects?
+
+Rationale: Reflects social communication and executive function struggles.
+
+Source Type: Educational and clinical studies
+
+Question: Does your teenager avoid classes or activities that involve a lot of reading or writing?
+
+Rationale: Behavioral avoidance indicating academic anxiety or dyslexia.
+
+Source Type: Behavioral research; educational studies
+
+Question: Does your teenager quickly give up on school tasks that are challenging?
+
+Rationale: Low motivation or self-confidence related to anxiety or executive difficulties.
+
+Source Type: Behavioral and educational psychology studies
+
+Question: Does your teenager struggle to recall words or names during conversations?
+
+Rationale: Tests word retrieval problems common in dyslexia and language impairments.
+
+Source Type: Neuropsychological and language research
+
+Question: Does your teenager often seem withdrawn or anxious in social situations?
+
+Rationale: Social anxiety or mood disorder indicator.
+
+Source Type: Child and adolescent mental health research
+
+Question: Does your teenager’s written work often appear disorganized or incomplete?
+
+Rationale: Executive function or written expression deficits affecting schoolwork.
+
+Source Type: Educational and clinical studies
+
+Question: Does your teenager often complain of physical symptoms like headaches or stomachaches related to schoolwork?
+
+Rationale: Somatic symptoms associated with emotional distress or anxiety.
+
+Source Type: Mental health literature
+
+Question: Does your teenager have trouble remembering or following through on multi-step assignments?
+
+Rationale: Working memory and executive function assessment.
+
+Source Type: Neuropsychological research
+
+Question: Does your teenager find it hard to stay focused on homework or study for long periods?
+
+Rationale: Sustained attention difficulties common in ADHD and learning disorders.
+
+Source Type: ADHD and educational research
+
+Question: Has your teenager’s academic performance declined compared to previous years?
+
+Rationale: Possible indicator of emerging or worsening learning or emotional problems.
+
+Source Type: Educational monitoring studies
+
+Question: Does your teenager have difficulty recalling information presented verbally in class?
+
+Rationale: Auditory memory difficulties impacting learning.
+
+Source Type: Neuropsychology assessments
+
+Question: Does your teenager frequently have mood swings or difficulty managing emotions at school?
+
+Rationale: Emotional dysregulation associated with ADHD, anxiety, or mood disorders.
+
+Source Type: Psychiatric research
+
+
+
+---------------
+
+14 to 19, teachers
+
+
+
+Question: Does the student read aloud significantly slower than peers, even with familiar texts?
+
+Rationale: Assesses ongoing reading fluency issues, typical in adolescent dyslexia.
+
+Source Type: DSM-5 criteria; adolescent dyslexia research
+
+Question: Does the student avoid reading aloud in class or group settings?
+
+Rationale: Behavioral avoidance related to reading anxiety or difficulties.
+
+Source Type: Clinical observations; behavioral research on reading anxiety
+
+Question: Does the student struggle to summarize or explain what they just read?
+
+Rationale: Highlights issues with reading comprehension and working memory.
+
+Source Type: Academic and clinical assessments; DSM-5 criteria
+
+Question: Does the student need multiple repetitions of instructions or text to understand?
+
+Rationale: Indicates difficulties with working memory and auditory processing.
+
+Source Type: Cognitive assessment literature; educational research
+
+Question: Does the student frequently misspell common words or show inconsistent spelling?
+
+Rationale: Reflects persistent spelling deficits seen in dyslexia and written expression disorders.
+
+Source Type: DSM-5 criteria; dyslexia spelling research
+
+Question: Does the student appear frustrated or upset during academic tasks that involve reading or writing?
+
+Rationale: Emotional response to academic challenges, related to dyslexia, anxiety, or mood disorders.
+
+Source Type: Psychological studies; educational behavior research
+
+Question: Does the student have difficulty organizing essays, reports, or written assignments?
+
+Rationale: Indicates executive function deficits often seen in learning disorders.
+
+Source Type: Educational psychology research; DSM-5 criteria
+
+Question: Does the student frequently fidget, have trouble staying seated, or disrupt the class?
+
+Rationale: Core behavioral signs of hyperactivity and impulsivity in ADHD.
+
+Source Type: DSM-5 ADHD criteria; behavioral rating scales
+
+Question: Does the student have difficulty sustaining attention during lectures or independent work?
+
+Rationale: Evaluates inattentiveness, common in ADHD and other attention disorders.
+
+Source Type: Clinical assessment tools; ADHD research
+
+Question: Does the student turn in assignments late or fail to complete them?
+
+Rationale: May indicate executive function challenges, motivation issues, or anxiety.
+
+Source Type: Educational psychology studies; ADHD and mood disorder literature
+
+Question: Does the student show difficulty in recalling verbal instructions or multi-step directions?
+
+Rationale: Tests auditory working memory and executive functioning.
+
+Source Type: Neuropsychological assessment research
+
+Question: Does the student avoid or withdraw from group work or social interactions at school?
+
+Rationale: Potential sign of social anxiety, depression, or peer relationship issues.
+
+Source Type: Mental health and educational research
+
+Question: Does the student frequently appear anxious, worried, or excessively self-critical about school performance?
+
+Rationale: Screens for anxiety or low self-esteem linked to academic struggles.
+
+Source Type: Clinical psychology studies
+
+Question: Does the student have difficulty learning and recalling basic math facts?
+
+Rationale: Signs of math learning disorder (dyscalculia).
+
+Source Type: DSM-5; educational assessment research
+
+Question: Does the student show inconsistent academic performance across subjects or tasks?
+
+Rationale: Helps distinguish specific learning profiles or co-occurring disorders.
+
+Source Type: Educational psychology
+
+Question: Does the student appear restless or overwhelmed during lengthy reading or writing activities?
+
+Rationale: Indicates academic fatigue, anxiety, or attentional issues.
+
+Source Type: Clinical and educational studies
+
+Question: Does the student frequently interrupt or talk out of turn during lessons or discussions?
+
+Rationale: Displays impulsivity; common in ADHD.
+
+Source Type: DSM-5 ADHD criteria
+
+Question: Does the student have trouble with planning, organizing, or managing time for schoolwork?
+
+Rationale: Executive function difficulties common in ADHD and learning disorders.
+
+Source Type: Neuropsychology research; educational psychology
+
+Question: Does the student struggle to follow and participate in oral discussions or group projects?
+
+Rationale: Highlights social communication and executive challenges.
+
+Source Type: Educational and clinical literature
+
+Question: Does the student avoid subjects or activities that require significant reading or writing?
+
+Rationale: Behavioral avoidance reflecting academic anxiety or dyslexia.
+
+Source Type: Psychology and education research
+
+Question: Does the student show signs of low motivation or giving up quickly on challenging tasks?
+
+Rationale: Indicators of low self-efficacy, anxiety, or executive difficulties.
+
+Source Type: Behavioral studies; educational psychology
+
+Question: Does the student have difficulty recalling names of common objects or academic vocabulary during conversation?
+
+Rationale: Tests word retrieval issues common in dyslexia and language impairments.
+
+Source Type: Language and neuropsychological research
+
+Question: Does the student appear withdrawn, rarely interacts socially, or seems anxious around peers?
+
+Rationale: Social anxiety or mood disorder symptom screening.
+
+Source Type: Child and adolescent mental health research
+
+Question: Does the student frequently produce disorganized or incomplete written work?
+
+Rationale: Impairs academic success, related to executive function or written expression disorder.
+
+Source Type: Educational and clinical studies
+
+Question: Does the student complain of physical symptoms like headaches or stomachaches related to schoolwork?
+
+Rationale: Somatic manifestations of stress, anxiety, or emotional distress.
+
+Source Type: Mental health research
+
+Question: Does the student have difficulty remembering or following multi-step tasks or assignments?
+
+Rationale: Tests working memory and executive function.
+
+Source Type: Neuropsychological assessments
+
+Question: Does the student have trouble staying focused on homework or independent study for extended periods?
+
+Rationale: Sustained attention and concentration difficulties.
+
+Source Type: ADHD and learning disorder research
+
+Question: Has the student’s academic performance declined compared to previous years?
+
+Rationale: Potential indicator of emerging or worsening learning or emotional difficulties.
+
+Source Type: Educational monitoring studies
+
+Question: Does the student struggle to recall information presented verbally during class?
+
+Rationale: Auditory memory issues impacting learning.
+
+Source Type: Neuropsychology literature
+
+Question: Does the student have difficulty regulating emotions or frequently show mood swings at school?
+
+Rationale: Screening for emotional dysregulation linked to ADHD, anxiety, or mood disorders.
+
+Source Type: Psychiatric research
+
+
+
+----------
+
+14 to 19, self
+
+
+
+Question: Do you find it hard to read out loud quickly and smoothly?
+
+Rationale: Evaluates self-awareness of reading fluency problems.
+
+Source Type: DSM-5 criteria; adolescent dyslexia research
+
+Question: Do you avoid reading out loud because it feels embarrassing or hard?
+
+Rationale: Captures avoidance behavior related to reading difficulties or anxiety.
+
+Source Type: Behavioral research on reading anxiety
+
+Question: After reading something, do you find it hard to explain what it was about?
+
+Rationale: Assesses self-perceived reading comprehension challenges.
+
+Source Type: Clinical reading comprehension studies
+
+Question: Do you need instructions repeated several times to understand them?
+
+Rationale: Checks awareness of memory and processing difficulties.
+
+Source Type: Cognitive assessments
+
+Question: Do you often spell words differently each time you write them?
+
+Rationale: Reflects spelling consistency issues common in dyslexia.
+
+Source Type: Spelling disorder research
+
+Question: Do you get frustrated or upset when you have to read or write a lot?
+
+Rationale: Self-reported emotional impact of academic tasks.
+
+Source Type: Educational psychology studies
+
+Question: Is it hard for you to organize your ideas when writing essays or reports?
+
+Rationale: Self-assessment of executive functioning in writing.
+
+Source Type: Educational research
+
+Question: Do you often feel restless or have trouble sitting still when doing homework?
+
+Rationale: Evaluates hyperactivity symptoms from self-perception.
+
+Source Type: ADHD research
+
+Question: Do you find it hard to focus during classes or when studying?
+
+Rationale: Tests self-awareness of attention difficulties.
+
+Source Type: ADHD and cognitive studies
+
+Question: Do you often turn in homework late or leave it unfinished?
+
+Rationale: Self-report of executive function and motivation challenges.
+
+Source Type: Educational psychology
+
+Question: Do you have trouble remembering instructions that have many steps?
+
+Rationale: Evaluates working memory issues from the student’s perspective.
+
+Source Type: Neuropsychological assessments
+
+Question: Do you feel nervous or avoid group activities or social events?
+
+Rationale: Screens for social anxiety or withdrawal.
+
+Source Type: Mental health research
+
+Question: Do you often worry about your schoolwork or how well you are doing?
+
+Rationale: Assesses anxiety and self-esteem related to academics.
+
+Source Type: Child psychology literature
+
+Question: Do you find math facts or calculations especially hard to remember or do?
+
+Rationale: Possible math learning difficulties (dyscalculia).
+
+Source Type: DSM-5 criteria
+
+Question: Are some school subjects a lot harder for you than others?
+
+Rationale: Self-report of uneven skill profiles indicating specific learning disabilities.
+
+Source Type: Educational psychology
+
+Question: Do you feel overwhelmed or tired when you have to read or write a lot?
+
+Rationale: Evaluates academic fatigue and stress.
+
+Source Type: Clinical and educational studies
+
+Question: Do you often interrupt others or speak before thinking in class?
+
+Rationale: Looks at impulsivity symptoms from the student's perspective.
+
+Source Type: DSM-5 ADHD criteria
+
+Question: Is it hard for you to plan and manage your schoolwork and time?
+
+Rationale: Executive function self-awareness.
+
+Source Type: Neuropsychology research
+
+Question: Do you find it hard to join or talk during group projects or discussions?
+
+Rationale: Social communication and anxiety related self-report.
+
+Source Type: Educational studies
+
+Question: Do you avoid classes or homework that include a lot of reading or writing?
+
+Rationale: Behavioral avoidance of challenging academic tasks.
+
+Source Type: Behavioral and educational research
+
+Question: Do you give up quickly on schoolwork when it gets difficult?
+
+Rationale: Self-report of motivation or confidence issues.
+
+Source Type: Educational psychology
+
+Question: Do you have trouble thinking of the right words when talking or writing?
+
+Rationale: Tests word retrieval difficulties.
+
+Source Type: Language and neuropsychological research
+
+Question: Do you often feel shy, anxious, or avoid talking to others at school?
+
+Rationale: Screens for social anxiety.
+
+Source Type: Mental health studies
+
+Question: Does your writing often look messy or incomplete?
+
+Rationale: Indicates written expression and motor difficulties.
+
+Source Type: DSM-5; dysgraphia research
+
+Question: Do you get headaches, stomachaches, or feel sick when doing schoolwork?
+
+Rationale: Somatic symptoms related to stress or anxiety.
+
+Source Type: Child mental health research
+
+Question: Do you find it hard to remember and finish long or complicated assignments?
+
+Rationale: Working memory and executive function self-evaluation.
+
+Source Type: Neuropsychology assessments
+
+Question: Do you find it difficult to stay focused when studying or doing homework for a long time?
+
+Rationale: Sustained attention difficulties.
+
+Source Type: ADHD and learning disorder research
+
+Question: Has your school performance gotten worse compared to earlier years?
+
+Rationale: Possible sign of emerging learning or emotional difficulties.
+
+Source Type: Educational monitoring studies
+
+Question: Do you have trouble remembering things that were said in class?
+
+Rationale: Auditory memory issues affecting learning.
+
+Source Type: Neuropsychology literature
+
+Question: Do you often feel moody or have trouble controlling your emotions at school?
+
+Rationale: Emotional regulation difficulties.
+
+Source Type: Psychiatric research
+
+

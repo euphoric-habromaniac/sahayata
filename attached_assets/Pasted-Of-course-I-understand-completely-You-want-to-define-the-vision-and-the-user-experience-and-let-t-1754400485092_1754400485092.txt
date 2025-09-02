@@ -1,0 +1,147 @@
+Of course. I understand completely. You want to define the vision and the user experience, and let the AI handle the technical implementation. This is a much more effective way to prompt modern AI builders.
+
+Here is a new, highly-detailed prompt crafted in this "what to make, not how" style. It gives the AI a clear project brief, user journey, and brand identity, empowering it to make the right architectural choices.
+
+The Detailed Prompt for Replit AI
+
+Hello Replit AI. You are an expert full-stack developer. Your task is to build a complete, production-ready web application from the ground up based on the following project brief.
+
+#1. Core Project Vision
+
+    Application Name: Sahayata
+
+    Team Name: GhostStack
+
+    Core Concept: "Sahayata" is a comprehensive, confidential screening tool designed to help individuals, parents, and teachers identify early signs of a wide range of commonly overlooked developmental and mental health challenges in young people. This includes, but is not limited to, traits associated with dyslexia, ADHD, anxiety, and depression. The goal is to empower users with preliminary insights and encourage them to seek professional guidance.
+
+#2. Design & Brand Identity
+
+    Tone: Professional, empathetic, trustworthy, and calming.
+
+    Color Palette: Please use a modern and accessible color scheme based on blue.
+
+        Primary Dark: #0A2647 (for headers, footers, dark backgrounds)
+
+        Primary Medium: #1C658C (for buttons, key elements)
+
+        Primary Light: #398AB9 (for accents, highlights)
+
+        Neutral/Background: #F7F7F7 (for light backgrounds)
+
+        Text: #FFFFFF (on dark backgrounds) and #333333 (on light backgrounds)
+
+        Warning/Disclaimer Box: A pale yellow or light orange background.
+
+#3. The User Journey & Required Features
+
+Build the application to facilitate the following user journey seamlessly.
+
+1. The Landing Page Experience
+
+    The user arrives at a professional and welcoming landing page.
+
+    Key Elements:
+
+        A clear headline introducing Sahayata as a confidential first step to understanding one's mental and developmental well-being.
+
+        A primary "Get Started" button that initiates the screening process.
+
+        A secondary "About" button in the navigation bar.
+
+        A brief overview of the app's purpose: to provide a private, multi-faceted screening.
+
+        A clearly visible footer containing a disclaimer that this is an informational tool, not a substitute for professional diagnosis.
+
+2. User Role Identification
+
+    Upon clicking "Get Started," the user is asked to identify their role with the question: "Who are you taking this screening for?"
+
+    Three distinct options must be presented: "For Myself," "For My Child," and "For My Student."
+
+3. The Authentication Flow (Branching Logic)
+
+    Path A: "For Myself"
+
+        This user path prioritizes absolute anonymity. It must skip all login and registration steps.
+
+        The user is taken directly to the questionnaire, which should be pre-set for a self-assessment.
+
+        No data from this path should be saved to any database.
+
+    Path B: "For My Child" or "For My Student"
+
+        This path offers the option to save progress. The user is asked if they would like to sign in to save and track results over time.
+
+        If they choose "Sign In," they are directed to a login page.
+
+        If they choose "Skip," they bypass the login flow and proceed directly to the age-group selection.
+
+4. The Login Experience
+
+    The login page should be simple, featuring a single "Sign In with Google" option.
+
+    You must use Firebase Authentication for this. The necessary configuration credentials for Firebase will be provided later as Replit Secrets. Write the code to expect the following secret keys:
+
+        FIREBASE_API_KEY, FIREBASE_AUTH_DOMAIN, FIREBASE_PROJECT_ID, FIREBASE_STORAGE_BUCKET, FIREBASE_MESSAGING_SENDER_ID, FIREBASE_APP_ID, FIREBASE_MEASUREMENT_ID.
+
+    After a successful login, the user should be directed to the next logical step (age selection).
+
+5. The Questionnaire Experience
+
+    Users who need to specify an age (parents/teachers) are presented with a selection of age groups (e.g., "8 to 13," "14 to 19").
+
+    The questionnaire page itself must be clean, responsive, and user-friendly.
+
+    Key Features:
+
+        A progress bar must be visible to show the user's completion status.
+
+        Questions should be loaded dynamically based on the user's path (their role and selected age group). Use placeholder questions for now.
+
+        Each question must have three answer options: "Yes," "No," and "Maybe."
+
+        A "See My Results" button submits the completed questionnaire for analysis.
+
+6. The Results Presentation
+
+    The results page should present the analysis in an easy-to-understand format.
+
+    Key Features:
+
+        Instead of a single score, break down the results into several categories (e.g., "Attention & Focus," "Emotional Regulation," "Reading Fluency," "Social Interaction").
+
+        Display the results for each category as a percentage or a qualitative summary (e.g., "Shows strong alignment with traits of...").
+
+        For categories that show a high alignment with certain traits, provide brief, constructive, and encouraging suggestions for next steps or supportive activities.
+
+        Crucial Disclaimer: A prominent, colored box at the top of the page must state that Sahayata is a screening tool, not a diagnostic instrument, and strongly recommend consultation with a qualified professional.
+
+7. The About Page
+
+    This page should introduce the team behind the project.
+
+    Headline: "About Team GhostStack"
+
+    Content: List the team members and generate a brief, professional description of their roles:
+
+        Pranjal (Captain): Project Lead, Backend Architecture, Presentation.
+
+        Divyansh: Frontend Development, User Interface Design, Presentation.
+
+        Gaurav: Research, Content Strategy, Presentation.
+
+        Debashish: Frontend Development, User Experience.
+
+        Abhay: Frontend Development, Responsiveness & CSS.
+
+#4. Backend Logic Requirements
+
+    The backend must be able to handle the form submission from the questionnaire.
+
+    Implement a weight-based scoring algorithm. This is not a real ML model, but it should be robust.
+
+    The algorithm must account for the three answer options. For example, "Yes" could be worth 2 points, "Maybe" 1 point, and "No" 0 points.
+
+    The logic should map each question to one or more of the predefined results categories and calculate the final percentage for each category based on the user's answers.
+
+Please build Sahayata following this vision. You have the autonomy to decide the best file structure, libraries, and implementation details to bring this project to life.
