@@ -1,15 +1,24 @@
 # Sahayata - Mental Health Screening Platform
 
-Sahayata is a comprehensive, confidential screening web application designed to help identify early signs of developmental and mental health challenges in young people. Built by Team GhostStack.
+Sahayata is a web app that asks parents or teachers a set of screening questions about a young person and shows a summary of where concerns may exist. It is a screening aid, not a diagnostic tool.
+
+## Hackathon context
+
+Built by Team GhostStack for the Google Devs Sprint hackathon in about 12 hours. It is a hackathon prototype.
+
+## Status
+
+Working prototype. The questionnaire flow (role, age, questions, results) runs against a PostgreSQL database. Sign-in uses Firebase (Google) on the client; the server does not enforce authentication (`server/replitAuth.ts` is a stub). There are no tests, no screenshots yet and no public demo link. Treat it as a demo, not as something to put real children's data into.
 
 ## Features
 
-- Research-based screening questionnaire with 88+ professional assessment questions
-- Multiple user roles (parents, teachers) for holistic evaluation
-- Secure authentication with multiple OAuth providers
-- PostgreSQL database for robust data management
-- React.js frontend with responsive design
-- Empathy-centered UI/UX design
+- Screening questionnaire loaded from `questions.txt` into the database, with a rationale and source type noted for each question
+- Two roles: parent and teacher
+- Age selection, then questionnaire, then a results page grouped by category
+- Firebase Google sign-in on the client
+- PostgreSQL storage through Drizzle ORM
+- React frontend, responsive layout
+- Static pages: about, FAQ, support centres, professional directory, privacy policy, terms, disclaimer
 
 ## Local Development Setup
 
@@ -38,15 +47,19 @@ Sahayata is a comprehensive, confidential screening web application designed to 
    DATABASE_URL=postgresql://username:password@localhost:5432/sahayata
    NODE_ENV=development
    PORT=5000
+   VITE_FIREBASE_API_KEY=
+   VITE_FIREBASE_PROJECT_ID=
+   VITE_FIREBASE_APP_ID=
    ```
+   The three `VITE_FIREBASE_*` values come from your own Firebase project. Never commit this file.
 
 4. **Set up the database**
    ```bash
    # Push the database schema
    npm run db:push
    
-   # Initialize with questions data
-   npm run db:init
+   # Load the questions from questions.txt
+   npx tsx server/initDb.ts
    ```
 
 5. **Start the development server**
@@ -96,8 +109,8 @@ npm start
 - **Frontend**: React, TypeScript, Vite, Tailwind CSS, shadcn/ui
 - **Backend**: Node.js, Express.js, TypeScript
 - **Database**: PostgreSQL with Drizzle ORM
-- **Authentication**: Passport.js with multiple OAuth providers
-- **Deployment**: Replit (current), ready for other platforms
+- **Authentication**: Firebase Auth (Google) on the client
+- **Deployment**: built on Replit; no live deployment is linked
 
 ## Available Scripts
 
@@ -105,9 +118,8 @@ npm start
 - `npm run build` - Build for production
 - `npm start` - Start production server
 - `npm run db:push` - Push database schema changes
-- `npm run db:init` - Initialize database with questions
 - `npm run check` - Run TypeScript type checking
 
 ## License
 
-MIT License - Built with love for mental health accessibility
+MIT. See `LICENSE`.
